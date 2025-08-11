@@ -2,6 +2,8 @@
 
 A comprehensive and fast DMARC security analysis tool that detects vulnerabilities in email authentication configurations.
 
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/578b613f-2291-4ce0-a24c-e8f80c26c778" />
+
 ## 🚀 Features
 
 - **Fast DNS Resolution**: Optimized DNS resolver with caching and concurrent lookups
