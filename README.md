@@ -2,7 +2,7 @@
 
 A comprehensive and fast DMARC security analysis tool that detects vulnerabilities in email authentication configurations.
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/578b613f-2291-4ce0-a24c-e8f80c26c778" />
+<img width="2000" height="700" alt="image" src="https://github.com/user-attachments/assets/d6fa84ca-3516-456c-ab14-18426ee29806" />
 
 ## 🚀 Features
 
