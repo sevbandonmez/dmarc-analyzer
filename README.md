@@ -9,10 +9,8 @@ A comprehensive and fast DMARC security analysis tool that detects vulnerabiliti
 - **Fast DNS Resolution**: Optimized DNS resolver with caching and concurrent lookups
 - **Comprehensive Analysis**: Checks DMARC, SPF, DKIM, and MX records
 - **Security Vulnerability Detection**: Identifies common security misconfigurations
-- **Colored Output**: Beautiful terminal interface with color-coded results
 - **JSON Reporting**: Generate detailed JSON reports for automation
 - **Performance Optimized**: Fast analysis with intelligent caching
-- **Cross-platform**: Works on Windows, macOS, and Linux
 
 ## 📋 Requirements
 
